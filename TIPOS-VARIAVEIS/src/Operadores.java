@@ -6,5 +6,10 @@ public class Operadores {
        numero ++;
        System.out.println(++ numero );
        System.out.println(numero);
+
+       boolean variavel = true;
+       System.out.println(variavel);
+       variavel = !variavel;
+       System.out.println(variavel);
     }
 }
