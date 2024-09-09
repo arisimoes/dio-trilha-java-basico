@@ -1,4 +1,4 @@
-public class Metodo {
+public class SmartTv {
     public static void main(String[] args) {
         
     }
